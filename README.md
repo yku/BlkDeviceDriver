@@ -1,0 +1,2 @@
+# BlkDeviceDriver
+自前のmake_request関数を使用するブロック型デバイスドライバの例
